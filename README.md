@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/derek-liu-228a16243/"><img src="https://img.shields.io/badge/LinkedIn-@derekliu-blue?logo=linkedin&style=flat-square" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/derekliu12138"><img src="https://img.shields.io/badge/Twitter-@derekliu-1DA1F2?logo=twitter&style=flat-square" alt="Twitter"/></a>
-  <a href="mailto:liudongyu12138@gmail.com"><img src="https://img.shields.io/badge/Email-derek.liu%40example.com-red?logo=gmail&style=flat-square" alt="Email"/></a>
+  <a href="https://twitter.com/derekliu12138"><img src="https://img.shields.io/badge/Twitter-@derekliu12138-1DA1F2?logo=twitter&style=flat-square" alt="Twitter"/></a>
+  <a href="mailto:liudongyu12138@gmail.com"><img src="https://img.shields.io/badge/Email-liudongyu12138%40example.com-red?logo=gmail&style=flat-square" alt="Email"/></a>
 </p>
 
 ---
@@ -34,13 +34,25 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/derekliu12138?template=classic&config.timezone=Asia%2FShanghai" alt="Metrics Card"/>
+  <img src="[https://metrics.lecoq.io/derekliu12138?template=classic&config.timezone=Asia%2FShanghai](https://metrics.lecoq.io/derekliu12138?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Pacific%2FAuckland)" alt="Metrics Card"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=derekliu12138&hide_title=true&hide_border=true&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derekliu12138&hide_title=true&hide_border=true&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
+
+---
+
+## 🎖️ Achievements & Streak
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=derekliu12138&theme=darkhub&no-frame=true&column=4" alt="Trophy"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=derekliu12138&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
 
