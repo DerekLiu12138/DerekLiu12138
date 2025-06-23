@@ -44,18 +44,6 @@
 
 ---
 
-## 📈 Activity & Visitors
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=derekliu12138&theme=xcode" alt="Activity Graph"/>
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=derekliu12138&color=blue" alt="Profile Views"/>
-</p>
-
----
-
 ## 🎨 3D Contribution Chart
 
 <p align="center">
