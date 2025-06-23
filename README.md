@@ -60,7 +60,7 @@
 ## 📈 Activity & Visitors
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=derekliu12138&theme=xcode" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=derekliu12138&theme=xcode" alt="Activity Graph"/>
 </div>
 
 <p align="center">
