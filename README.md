@@ -34,11 +34,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="[https://metrics.lecoq.io/derekliu12138?template=classic&config.timezone=Asia%2FShanghai](https://metrics.lecoq.io/derekliu12138?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Pacific%2FAuckland)" alt="Metrics Card"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=derekliu12138&hide_title=true&hide_border=true&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </div>
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=derekliu12138&hide_title=true&hide_border=true&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derekliu12138&hide_title=true&hide_border=true&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
@@ -52,14 +52,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=derekliu12138&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🎨 3D Contribution Chart
-
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/profile?username=derekliu12138&theme=dracula" alt="3D Contrib Chart"/>
 </p>
 
 ---
