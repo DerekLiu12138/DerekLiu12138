@@ -29,30 +29,6 @@
   <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css,docker,k8s,aws,azure,git,linux" alt="Tech Icons"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=derekliu12138&hide_title=true&hide_border=true&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</div>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derekliu12138&hide_title=true&hide_border=true&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
-
----
-
-## 🎖️ Achievements & Streak
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=derekliu12138&theme=darkhub&no-frame=true&column=4" alt="Trophy"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=derekliu12138&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</p>
 
 ---
 
